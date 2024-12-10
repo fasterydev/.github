@@ -15,7 +15,3 @@ Fastery Dev es una empresa enfocada en el diseño y desarrollo de software a med
 
 ## 🏆 **Nuestra Misión**
 Empoderar a empresas y emprendedores con soluciones tecnológicas que impulsen su crecimiento en un mercado competitivo.
-
----
-
-**Fastery Dev** - Transformando Ideas en Innovación Tecnológica 💻✨
