@@ -1,17 +1,17 @@
-## 🌟 **Sobre Nosotros**
-Fastery Dev es una empresa enfocada en el diseño y desarrollo de software a medida. Nos especializamos en crear aplicaciones modernas, escalables y adaptadas a las necesidades de nuestros clientes, combinando innovación, excelencia técnica y compromiso con el éxito de cada proyecto.
+## 🌟 **About Us**
+Fastery Dev is a company focused on the design and development of custom software. We specialize in creating modern, scalable applications tailored to the needs of our clients, combining innovation, technical excellence, and commitment to the success of each project.
 
-## 🛠️ **Servicios**
-- Desarrollo Web y Móvil
-- Arquitectura de Microservicios
-- Consultoría Técnica
-- Soluciones Empresariales
+## 🛠️ **Services**
+- Web and Mobile Development
+- Microservices Architecture
+- Technical Consulting
+- Enterprise Solutions
 
-## 🚀 **Nuestro Proceso**
-1. **Descubrimiento**: Entendemos tus objetivos.
-2. **Planificación**: Diseñamos soluciones personalizadas.
-3. **Desarrollo**: Implementamos con las mejores prácticas.
-4. **Entrega**: Aseguramos resultados confiables y soporte continuo.
+## 🚀 **Our Process**
+1. **Discovery**: We understand your goals.
+2. **Planning**: We design customized solutions.
+3. **Development**: We implement with best practices.
+4. **Delivery**: We ensure reliable results and continuous support.
 
-## 🏆 **Nuestra Misión**
-Empoderar a empresas y emprendedores con soluciones tecnológicas que impulsen su crecimiento en un mercado competitivo.
+## 🏆 **Our Mission**
+Empower businesses and entrepreneurs with technological solutions that drive their growth in a competitive market.
